@@ -137,7 +137,7 @@ namespace op
         {14, "RKnee"},
         {15, "LAnkle"},
         {16, "RAnkle"},
-        {17, "Neck"},
+        {17, "UpperNeck"},
         {18, "HeadTop"},
         {19, "LBigToe"},
         {20, "LSmallToe"},
